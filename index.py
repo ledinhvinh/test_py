@@ -1,5 +1,6 @@
 def cong(a,b):
-    return a + b
+    c = a + b
+    return c
 
 def tru(a,b):
     return a -b
