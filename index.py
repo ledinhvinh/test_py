@@ -3,8 +3,8 @@ def cong(a,b):
     return c
 
 def tru(a,b):
-    tru = a - b
-    return tru
+   
+    return a -b
 
 def nhan(a,b):
     return a * b
